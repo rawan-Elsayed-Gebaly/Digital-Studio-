@@ -1,0 +1,10 @@
+# General Instructions
+- Prioritize high performance, code readability, and simplicity.
+- Avoid over-engineering, unnecessary abstractions, or overly complex architecture for simple features.
+- Write easy-to-debug code with clear naming and straightforward patterns.
+- Do not introduce boilerplate or multi-layered wrappers unless explicitly requested or strictly necessary for scale.
+
+# Code Style & Quality
+- Keep functions small, focused, and single-purpose.
+- Prefer explicit and clear code over overly clever or concise solutions.
+- Keep state management and structure lightweight.
